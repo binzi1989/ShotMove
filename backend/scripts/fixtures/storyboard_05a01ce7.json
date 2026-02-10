@@ -1,0 +1,12 @@
+[
+  {"index": 1, "shot_type": "全景", "shot_desc": "镜湖道院正门", "copy": "", "duration_sec": 5},
+  {"index": 2, "shot_type": "中景", "shot_desc": "孟川与师弟师妹", "character_name": "师弟师妹", "copy": "孟师兄！孟师兄好！见过孟师兄！", "duration_sec": 4},
+  {"index": 3, "shot_type": "近景", "shot_desc": "孟川侧脸", "copy": "", "duration_sec": 4},
+  {"index": 4, "shot_type": "中景", "shot_desc": "绿竹提裙奔来", "character_name": "绿竹", "copy": "公子！公子！", "duration_sec": 3},
+  {"index": 5, "shot_type": "近景", "shot_desc": "孟川微笑", "character_name": "孟川", "copy": "绿竹，你怎么来了？", "duration_sec": 4},
+  {"index": 6, "shot_type": "中景", "shot_desc": "绿竹说话", "character_name": "绿竹", "copy": "我家小姐想请公子去东山赏雪，昨夜新雪，东山可美啦。", "duration_sec": 5},
+  {"index": 7, "shot_type": "近景", "shot_desc": "孟川蹙眉", "character_name": "孟川", "copy": "东山太远，得在外过夜，明日才回。", "duration_sec": 4},
+  {"index": 8, "shot_type": "中景", "shot_desc": "绿竹比划", "character_name": "绿竹", "copy": "云家别院恰在东山，可宿。", "duration_sec": 4},
+  {"index": 9, "shot_type": "特写", "shot_desc": "孟川按刀", "copy": "", "duration_sec": 3},
+  {"index": 10, "shot_type": "近景", "shot_desc": "孟川坚定", "character_name": "孟川", "copy": "转告青萍，一月后玉阳宫斩妖盛会，我需潜心修行，无法同往。", "duration_sec": 5}
+]

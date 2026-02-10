@@ -1,0 +1,9 @@
+# 仅启动后端；前端本地运行 npm run dev 并代理到后端
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - backend/.env
+    restart: unless-stopped

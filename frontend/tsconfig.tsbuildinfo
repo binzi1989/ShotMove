@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/timelineeditor/mediabin.tsx","./src/components/timelineeditor/trackrow.tsx","./src/components/timelineeditor/index.tsx","./src/pages/dramapage.tsx","./src/pages/historypage.tsx","./src/pages/homepage.tsx","./src/pages/mypage.tsx","./src/types/timeline.ts"],"version":"5.9.3"}
