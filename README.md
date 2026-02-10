@@ -1,34 +1,10 @@
-# 短视频 + 短剧 · 多智能体创作
+#短剧 · 多智能体创作
 
-根据用户输入（**商品链接** / **剧本** / 自然语言）自动路由到「商品种草短视频」或「短剧创作」管线，生成脚本与分镜。包含**后端服务**、**前端界面**与 **Cursor Skills**。
+根据用户输入（**剧本** / 自然语言）自动路由到「短剧创作」管线，生成脚本与分镜。包含**后端服务**、**前端界面**与 **Cursor Skills**。
 
 ---
 
 ## 项目结构
-
-```
-d:\test\
-├── backend/                 # FastAPI 多 Agent 服务
-│   ├── app/
-│   │   ├── main.py          # 入口、/api/create
-│   │   ├── schemas.py       # 请求/响应模型
-│   │   ├── agents/          # 路由 + 商品短视频 + 短剧 Agent
-│   │   └── services/        # 商品 API、LLM 模板
-│   ├── requirements.txt
-│   └── .env.example
-├── frontend/                 # React + Vite + Tailwind 前端
-│   ├── src/
-│   │   ├── App.tsx
-│   │   ├── api.ts
-│   │   └── ...
-│   ├── package.json
-│   └── vite.config.ts       # 开发时代理 /api -> 后端
-├── .cursor/skills/           # Cursor/Agent Skills（路由、商品、短剧）
-├── 可接入API清单表.md
-├── 短视频短剧多智能体创作规划.md
-└── README.md
-```
-
 ---
 
 ## 快速运行
